@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+li{
+    color: darkred;
+    text-decoration: underline 2px red;
+    text-shadow: darkred 1px 1px;
+}
+
+h1{
+    color: darkred;
+    text-shadow: darkred 2px 2px;
+}
+
+.link-header{
+    color: darkred;
+    text-shadow: darkred 1px 1px;
+}
+
+

@@ -1,0 +1,59 @@
+body {
+    font-family: Ribeye;
+    background-color: skyblue;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 80px;
+    font-size: 64px;
+    color: darkred;
+}
+header{
+    background-image: linear-gradient(to right,orangered, skyblue, orangered);
+    width: 100%;
+    height: 210px;
+}
+
+.logo{
+    font-size: 200px;
+    position: absolute;
+    top: -175px;
+    left: 140px;
+    opacity: 0.3;
+    color: darkred;
+}
+
+h2{
+    font-size: 36px;
+    color: orangered;
+}
+
+aside{
+    position: absolute;
+    right: 65px;
+    top: 280px;
+    width: 90px;
+    text-align: center;
+    border: 5px solid darkblue;
+    height: 165px;
+    border-radius: 10px;
+}
+
+a{
+    display: block;
+    margin: 10px;
+}
+
+a:hover{
+    border-bottom: 3px solid skyblue;
+}
+
+footer{
+    border-top: 5px solid darkgreen;
+}
+img{
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+}

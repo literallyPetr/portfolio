@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    background-color: skyblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 144px;
+    font-weight: 400;
+    color: #4A4646;
+}
+
+header{
+    background-image: linear-gradient(to right, orange, skyblue, white, skyblue, orange);
+}
+
+h2{
+    font-size: 64px;
+    color: #EB722E;
+    font-weight: 400;
+}
+
+aside{
+    border: 5px solid #2E268B;
+    border-radius: 10px;
+    position: absolute;
+    width: 222px;
+    height: 462px;
+    text-align: center;
+    right: 0px;
+    top: 300px;
+    background-color: white;
+}
+
+h3{
+    font-size: 36px;
+}
+
+p{
+    font-size: 24px;
+}
+
+h4{
+    font-size: 48px;
+}
+
+footer{
+    border-top: 10px solid #2E671F;
+    background-color: blue;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
